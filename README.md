@@ -39,8 +39,8 @@ I am a **Software Engineer at Baidu** (since 2023.07), deeply passionate about b
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=qingbo1011&show_icons=true&theme=transparent" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qingbo1011&layout=compact&theme=transparent" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=qingbo1011&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qingbo1011&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
