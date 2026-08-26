@@ -43,7 +43,7 @@ I am a **Software Engineer at Baidu** (since 2023.07), deeply passionate about b
 ### 📫 Connect with Me
 
 - 🌐 **Blog**: [http://qingbo1011.top/](http://qingbo1011.top/)
-- 📧 **Email**: 1985329294@qq.com
+- 📧 **Email**: qingbo1011@gmail.com
 
 <div align="center">
   <i>"Code with vibes, engineer with precision."</i>
